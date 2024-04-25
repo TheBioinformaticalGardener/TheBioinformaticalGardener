@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @TheBioinformaticalGardener
+- 👀 I’m interested in the intersection between biology and information technology (i.e. bioinformatics) 
+- 🌱 I’m currently learning Python, R, Java, cell- and molecular biology and computational biology
+- 💞️ I’m looking to collaborate on anything that potentially can have educational value
+- 📫 How to reach me 
+- ⚡ Fun fact: 
