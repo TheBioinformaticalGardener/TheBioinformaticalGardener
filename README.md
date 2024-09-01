@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @TheBioinformaticalGardener
+- 👋 Hi, I’m @TheBioinformaticalGardener (Marius Dobbe Klemetsen)
 - 👀 I’m interested in the intersection between biology and information technology (i.e. bioinformatics) 
-- 🌱 I’m currently learning Python, R, Java, cell- and molecular biology and computational biology
+- 🌱 I’m currently in the process of further exploring Python, R, Java, cell- and molecular biology, and computational biology
 - 💞️ I’m looking to collaborate on anything that potentially can have educational value
-- 📫 How to reach me 
-- ⚡ Fun fact: 
+- 📫 How to reach me:
+    - Email: marius.klemetsen@outlook.com
+    - LinkedIn: [Profile](https://www.linkedin.com/in/marius-dobbe-klemetsen/)
