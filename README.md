@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TheBioinformaticalGardener (Marius Dobbe Klemetsen)
-- 👀 I’m interested in the intersection between biology and information technology (i.e. bioinformatics) 
+- 👀 I’m interested in the intersection between biology and computer science (i.e. bioinformatics) 
+- :briefcase: I'm working as a reasearch technician at the UiT - The Arctic University of Norway
 - 🌱 I’m currently in the process of further exploring Python, R, Java, cell- and molecular biology, and computational biology
 - 💞️ I’m looking to collaborate on anything that potentially can have educational value
 - 📫 How to reach me:
